@@ -1,7 +1,15 @@
-.venv/
-__pycache__/
-*.pyc
-archive/
-new_moles/
-logs/
+﻿# Large files
 *.h5
+*.tgz
+lfw/
+lfw-deepfunneled/
+data/
+training_checkpoints/
+*.png
+
+# Python
+__pycache__/
+*.py[cod]
+*.class
+.venv/
+.DS_Store
